@@ -1,0 +1,6 @@
+{
+  "name": "Phòng khám Đa khoa An Khang",
+  "description": "Ứng dụng AI hỗ trợ tư vấn sức khỏe trực tuyến, đặt lịch khám và lưu trữ hồ sơ y tế cho Phòng khám Đa khoa An Khang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
